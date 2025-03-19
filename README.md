@@ -1,33 +1,72 @@
-<h1 align="center">Hi 👋, I'm Anugu Samitha Reddy</h1>
-<h3 align="center">An early professional software developer at Accenture.</h3>
-<img align="right" alt="Coding" Width="400" src="https://i.pinimg.com/474x/59/7b/ef/597bef8f5bedc8b323914d5f235e1984.jpg">
+# Samitha Reddy Anugu  
+Software Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samithaanugu&label=Profile%20views&color=0e75b6&style=flat" alt="samithaanugu" /> </p>
+![Data Engineer](https://img.shields.io/badge/Data%20Engineer-Expert-blue)
+![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-Azure%7CGCP-green)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--learn%7CPandas-orange)
+![Big Data](https://img.shields.io/badge/Big%7CDatabricks-purple)
+![Full Stack](https://img.shields.io/badge/FullStack-%20Java-yellow)
 
-- 🔭 I’m currently experienced on **GCP, Data Integration, Talend**
+---
 
-- 🌱 I’m currently learning **PySpark, Cloud Based Technologies**
+## About Me    
 
-- 👯 I’m looking to collaborate with **cross functional teams including data scientists and business stakeholders to understand data requirements and deliver impactful solutions**
+🔹 **Expert in:** Cloud-based analytics, Talend, real-time data processing  
+🔹 **Passionate about:** Designing and implementing data pipelines, scalable data architectures, and leveraging high-performance data analysis            
+🔹 **Tech Stack:** Python | SQL | Java | Azure | GCP | Databricks | Talend  
 
-- 🤝 I leverage in **Excel, SQL, PowerBI Data Analytics**
+---
 
-- 💬 I am proficient and have substantial experience **in modern data warehousing architecture, Building ETL tools on azure such as databricks.**
+## 🔧 Tech Stack & Tools  
 
-- 📫 How to reach me **samithaanugu@gmail.com**
+### **Programming Languages**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-- ⚡ Fun fact **Call me as sam**
+### 🌐 **Frontend**  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/samitha-anugu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samitha-anugu" height="30" width="40" /></a>
-</p>
+### ☁ **Cloud & Big Data**  
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+### 🛢 **Databases & Storage**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samithaanugu&show_icons=true&locale=en&layout=compact" alt="samithaanugu" /></p>
+### 📊 **Data Science & Visualization**  
+![Pandas](https://img.shields.io/badge/Pandas-FF6F00?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samithaanugu&show_icons=true&locale=en" alt="samithaanugu" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samithaanugu&" alt="samithaanugu" /></p>
+## Featured Projects  
+
+### 🗳 **Personal Portfolio Website**  
+🔹 Crafted a visually appealing portfolio website showcasing my works, projects, skills  
+🔹 Used Html for structuring, CSS for styling, Javascript for interactivity          
+🔹 Utilized various web designing tools allowing visitors to explore my showcased work serving as digital resume
+
+### 📊 **Crypto Cloud System With Blockchain**  
+🔹 Modelled the vaccine circulatory system understanding the complex health system architecture  
+🔹 Cutting edge technologies used in this project are Blockchain, Cloud Computing and Cryptographic mechanism
+
+### 📡 **Sentinal Crime System Using Machine Learning**  
+🔹 Motive of this project is to make crime prediction and criminal identification faster     
+🔹 Automated ML workflows for **predictive analytics**                  
+🔹 Utilized ML tools like scikit learn, Matplotlib, Seaborn            
+🔹 Optimized data models to support **high-volume data processing**  
+ 
+---
+
+## Connect with Me  
+
+📧 Email: [samithaanugu@gmail.com](mailto:samithaanugu@gmail.com)  
+💼 LinkedIn: [linkedin.com/in/samitha-anugu](https://linkedin.com/in/samitha-anugu)  
+
+--- 
